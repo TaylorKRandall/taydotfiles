@@ -1,0 +1,33 @@
+{
+
+:devices {:utech [{:vendor_id 1241 :product_id 64597}]}
+
+:applications {:vwx ["^net\\.nemetschek\\.vectorworks$"]}
+
+:main [{:des "Map numbers on gaming mouse to VWX shortcuts"
+		:rules [[:1 :keypad_1 [:utech :vwx]]
+				[:2 :keypad_2 [:utech :vwx]]
+				[:3 :keypad_3 [:utech :vwx]]
+				[:4 :keypad_4 [:utech :vwx]]
+				[:5 :keypad_5 [:utech :vwx]]
+				[:6 :keypad_6 [:utech :vwx]]
+				[:7 :keypad_7 [:utech :vwx]]
+				[:8 :keypad_8 [:utech :vwx]]
+				[:9 :keypad_9 [:utech :vwx]]]
+	  }]
+
+}
+
+;; !  | means mandatory
+;; #  | means optional
+;; C  | left_command
+;; T  | left_control
+;; O  | left_option
+;; S  | left_shift
+;; F  | fn
+;; Q  | right_command
+;; W  | right_control
+;; E  | right_option
+;; R  | right_shift
+;; !! | mandatory command + control + optional + shift (hyper)
+;; ## | optional any
