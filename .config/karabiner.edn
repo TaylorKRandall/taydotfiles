@@ -1,22 +1,35 @@
 {
+:profiles {:goku 
+													{:default true
+														:sim     50
+														:delay   80
+														:alone   120
+														:held    70}}
 
 :devices {:utech [{:vendor_id 1241 :product_id 64597}]}
 
 :applications {:vwx ["^net\\.nemetschek\\.vectorworks$"]}
 
-:main [{:des "Map numbers on gaming mouse to VWX shortcuts"
-		:rules [[:1 :keypad_1 [:utech :vwx]]
-				[:2 :keypad_2 [:utech :vwx]]
-				[:3 :keypad_3 [:utech :vwx]]
-				[:4 :keypad_4 [:utech :vwx]]
-				[:5 :keypad_5 [:utech :vwx]]
-				[:6 :keypad_6 [:utech :vwx]]
-				[:7 :keypad_7 [:utech :vwx]]
-				[:8 :keypad_8 [:utech :vwx]]
-				[:9 :keypad_9 [:utech :vwx]]]
-	  }]
+:simlayers {:w-mode {:key :w}
+												:o-mode {:key :o}}
 
-}
+:main [
+						 {:des "Map numbers on gaming mouse to VWX shortcuts"
+								:rules [[:1 :keypad_1 [:utech :vwx]]
+																[:2 :keypad_2 [:utech :vwx]]
+																[:3 :keypad_3 [:utech :vwx]]
+																[:4 :keypad_4 [:utech :vwx]]
+																[:5 :keypad_5 [:utech :vwx]]
+																[:6 :keypad_6 [:utech :vwx]]
+																[:7 :keypad_7 [:utech :vwx]]
+																[:8 :keypad_8 [:utech :vwx]]
+																[:9 :keypad_9 [:utech :vwx]]]
+						}
+
+						{:des "Open applications with W"
+								:rules [:w-mode [:t "open -a terminal"]]
+	  			}
+]}
 
 ;; !  | means mandatory
 ;; #  | means optional
