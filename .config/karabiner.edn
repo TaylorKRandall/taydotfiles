@@ -10,25 +10,35 @@
 
 :applications {:vwx ["^net\\.nemetschek\\.vectorworks$"]}
 
-:simlayers {:w-mode {:key :w}
-												:o-mode {:key :o}}
+:simlayers {:w-mode {:key :w}  ;; open applications
+												:o-mode {:key :o}  ;; "Okey Alred"
+											 :v-mode {:key :v}  ;; VWX hotkeys
 
 :main [
-						 {:des "Map numbers on gaming mouse to VWX shortcuts"
-								:rules [[:1 :keypad_1 [:utech :vwx]]
-																[:2 :keypad_2 [:utech :vwx]]
-																[:3 :keypad_3 [:utech :vwx]]
-																[:4 :keypad_4 [:utech :vwx]]
-																[:5 :keypad_5 [:utech :vwx]]
-																[:6 :keypad_6 [:utech :vwx]]
-																[:7 :keypad_7 [:utech :vwx]]
-																[:8 :keypad_8 [:utech :vwx]]
-																[:9 :keypad_9 [:utech :vwx]]]
+						 {:des "Map numbers on gaming mouse to VWX views"
+								:rules [[:1 :keypad_1 [:utech :vwx]]  ;; Left iso
+																[:2 :keypad_2 [:utech :vwx]]  ;; Front
+																[:3 :keypad_3 [:utech :vwx]]  ;; Right iso
+																[:4 :keypad_4 [:utech :vwx]]  ;; Left
+																[:5 :keypad_5 [:utech :vwx]]  ;; Top
+																[:6 :keypad_6 [:utech :vwx]]  ;; Right
+																[:7 :keypad_7 [:utech :vwx]]  ;; Left rear iso
+																[:8 :keypad_8 [:utech :vwx]]  ;; Rear
+																[:9 :keypad_9 [:utech :vwx]]] ;; Right rear iso
 						}
 
 						{:des "Open applications with W"
-								:rules [:w-mode [:t "open -a terminal"]]
+							:rules [:w-mode [:t "open -a terminal"]]
 	  			}
+
+	  			{:des "Vectorworks shortcuts on gaming mouse with V"
+	  				:rules [:v-mode 
+	  			     			[:1 :!Oequal_sign [:utech :vwx]] ;; Rotate Tool
+	  											[:3 :!SOCp [:utech :vwx]]						  ;; Compose25
+	  											[:2 :!SCw [:utech :vwx]]									;; Render as wireframe
+	  											[:5 :!SCg [:utech :vwx]]									;; Render as OpenGL
+	  					]
+	  		 }
 ]}
 
 ;; !  | means mandatory
