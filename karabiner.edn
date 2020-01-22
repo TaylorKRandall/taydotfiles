@@ -5,9 +5,10 @@
 
 :applications {:vwx ["^net\\.nemetschek\\.vectorworks$"]}
 
-:simlayers 	{:w-mode {:key :w}  ;; open applications
-		 :o-mode {:key :o}  ;; "Okey Alred"
-		 :v-mode {:key :v}} ;; VWX hotkeys
+:simlayers 	{
+		:w-mode {:key :w}  ;; open applications
+		:o-mode {:key :o}  ;; "Okey Alred"
+		:v-mode {:key :v}} ;; VWX hotkeys
 
 :main [
 	{:des "Map numbers on gaming mouse to VWX views"
@@ -22,7 +23,11 @@
 			[:9 :keypad_9 [:utech :vwx]]] ;; Right rear iso
 	}
 	{:des "Open applications with W"
-		:rules [:w-mode [:t "open -a terminal"]]
+		:rules [:w-mode
+			[:t "open -a terminal"]
+			[:v "open -a 'vectorworks 2020'"]
+			[:o "open -a 'microsoft outlook'"]
+			[:b "open -a 'brave browser'"]]
 	}
 	{:des "Vectorworks shortcuts on gaming mouse with V"
 		:rules  [:v-mode 
