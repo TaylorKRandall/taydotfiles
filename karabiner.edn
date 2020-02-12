@@ -27,13 +27,15 @@
 			[:t "open -a terminal"]
 			[:v "open -a 'vectorworks 2020'"]
 			[:o "open -a 'microsoft outlook'"]
-			[:b "open -a 'brave browser'"]]
+			[:b "open -a 'brave browser'"]
+			[:s "open -a 'sublime text'"]]
 	}
 	{:des "Vectorworks shortcuts on gaming mouse with V"
 		:rules  [:v-mode 
 			[:1 :!Oequal_sign [:utech :vwx]] ;; Rotate Tool
 			[:3 :!SOCp [:utech :vwx]] 	 ;; Compose
 			[:2 :!SCw [:utech :vwx]] 	 ;; Render as wireframe
+			[:4 :!Ol [:utech :vwx]]		 ;; Connect/Combine Tool
 			[:5 :!SCg [:utech :vwx]]] 	 ;; Render as OpenGL
 	}
 ]}
