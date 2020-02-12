@@ -6,21 +6,23 @@
 :applications {:vwx ["^net\\.nemetschek\\.vectorworks$"]}
 
 :simlayers 	{
-		:w-mode {:key :w}  ;; open applications
-		:o-mode {:key :o}  ;; "Okey Alred"
-		:v-mode {:key :v}} ;; VWX hotkeys
+		:w-mode {:key :w}				;; open applications
+		:o-mode {:key :o}				;; "Okey Alred"
+		:v-mode {:key :v}				;; VWX hotkeys
+		:caps-mode {:key :caps_lock}	;; caps super mod
+}
 
 :main [
 	{:des "Map numbers on gaming mouse to VWX views"
-		:rules [[:1 :keypad_1 [:utech :vwx]]  ;; Left iso
-			[:2 :keypad_2 [:utech :vwx]]  ;; Front							
-			[:3 :keypad_3 [:utech :vwx]]  ;; Right iso
-			[:4 :keypad_4 [:utech :vwx]]  ;; Left
-			[:5 :keypad_5 [:utech :vwx]]  ;; Top
-			[:6 :keypad_6 [:utech :vwx]]  ;; Right
-			[:7 :keypad_7 [:utech :vwx]]  ;; Left rear iso
-			[:8 :keypad_8 [:utech :vwx]]  ;; Rear
-			[:9 :keypad_9 [:utech :vwx]]] ;; Right rear iso
+		:rules [[:1 :keypad_1 [:utech :vwx]]	;; Left iso
+			[:2 :keypad_2 [:utech :vwx]] 		;; Front							
+			[:3 :keypad_3 [:utech :vwx]] 		;; Right iso
+			[:4 :keypad_4 [:utech :vwx]] 		;; Left
+			[:5 :keypad_5 [:utech :vwx]] 		;; Top
+			[:6 :keypad_6 [:utech :vwx]] 		;; Right
+			[:7 :keypad_7 [:utech :vwx]] 		;; Left rear iso
+			[:8 :keypad_8 [:utech :vwx]] 		;; Rear
+			[:9 :keypad_9 [:utech :vwx]]]		;; Right rear iso
 	}
 	{:des "Open applications with W"
 		:rules [:w-mode
@@ -33,10 +35,22 @@
 	{:des "Vectorworks shortcuts on gaming mouse with V"
 		:rules  [:v-mode 
 			[:1 :!Oequal_sign [:utech :vwx]] ;; Rotate Tool
-			[:3 :!SOCp [:utech :vwx]] 	 ;; Compose
-			[:2 :!SCw [:utech :vwx]] 	 ;; Render as wireframe
-			[:4 :!Ol [:utech :vwx]]		 ;; Connect/Combine Tool
-			[:5 :!SCg [:utech :vwx]]] 	 ;; Render as OpenGL
+			[:3 :!SOCp [:utech :vwx]] 	 	 ;; Compose
+			[:2 :!SCw [:utech :vwx]] 	 	 ;; Render as wireframe
+			[:4 :!Ol [:utech :vwx]]		 	 ;; Connect/Combine Tool
+			[:5 :!SCg [:utech :vwx]] 	 	 ;; Render as OpenGL
+		]
+	}
+	{:des "Vectorworks shortcuts on keyboard with V"
+		:rules [:v-mode
+			[:z :!SCOz [:vwx]]
+		]
+	}
+	{:des "Cap Lock into SCO mod"
+		:rules [:caps-mode
+			[:s :!SOCs]
+			[:z :!SOCz]
+		]
 	}
 ]}
 
