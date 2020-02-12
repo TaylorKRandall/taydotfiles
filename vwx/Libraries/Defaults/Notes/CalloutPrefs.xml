@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<CalloutPreferences>
+
+  <TextOptions>
+    <GetTextFromDatabase>false</GetTextFromDatabase>
+    <DatabaseLocation></DatabaseLocation>
+    <DatabaseUUID></DatabaseUUID>
+    <Keynote>
+      <PlaceAsKeynote>false</PlaceAsKeynote>
+      <KeynotePrefix></KeynotePrefix>
+      <KeynoteSuffix></KeynoteSuffix>
+    </Keynote>
+    <MaxTextWidth>50.800000</MaxTextWidth>
+    <VerticalPosition>Auto</VerticalPosition>
+    <HorizontalPosition>Auto</HorizontalPosition>
+    <AlwaysLeftJustifyText>false</AlwaysLeftJustifyText>
+    <HorizontalTextAlignment>Default</HorizontalTextAlignment>
+    <BubbleShadowPenColor>-3</BubbleShadowPenColor>
+    <BubbleShadowFillColor>-3</BubbleShadowFillColor>
+  </TextOptions>
+
+  <BubbleOptions>
+    <BubbleStyle>None</BubbleStyle>
+    <RRCornerRadius>1.190000</RRCornerRadius>
+    <TextMargin>1.190000</TextMargin>
+    <BubbleShadow>false</BubbleShadow>
+  </BubbleOptions>
+
+  <LeaderOptions>
+    <MaxLeaderLinesPoints>2</MaxLeaderLinesPoints>
+    <ShoulderLength>6.350000</ShoulderLength>
+    <LeaderType>Line</LeaderType>
+    <LeaderRadius>0.000000</LeaderRadius>
+    <MarkerStyle>
+      <GeneralOptions>
+        <RootType>Arrow</RootType>
+        <Fill>LineColor</Fill>
+        <Base>Flat</Base>
+        <Angle>15</Angle>
+        <Length>0.125000</Length>
+        <Width>0.000000</Width>
+        <HalfTick>Whole</HalfTick>
+        <Tail>false</Tail>
+      </GeneralOptions>
+      <ThicknessOptions>
+        <Type>UseCustomThickness</Type>
+        <Size>2.000000</Size>
+        <Units>Mils</Units>
+      </ThicknessOptions>
+    </MarkerStyle>
+  </LeaderOptions>
+
+</CalloutPreferences>

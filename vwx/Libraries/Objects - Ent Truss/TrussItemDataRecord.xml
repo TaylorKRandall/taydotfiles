@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<BrxTrussItemRecord>
+
+  <Items FilePath="XSF Truss/12x12 Classic Bolt Plate.vwx">
+    <Item-0>
+      <Name>X-12U-125BP-6</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>0.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-6</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>152.400000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-0>
+    <Item-1>
+      <Name>X-12U-125BP-12</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>0.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-12</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>304.800000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-1>
+    <Item-2>
+      <Name>X-12U-125BP-18</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>0.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-18</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>457.200000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-2>
+    <Item-3>
+      <Name>X-12U-125BP-24</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>9070.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-24</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>609.600000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-3>
+    <Item-4>
+      <Name>X-12U-125BP-30</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>9980.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-30</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>762.000000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-4>
+    <Item-5>
+      <Name>X-12U-125BP-36</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>10890.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-36</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>914.400000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-5>
+    <Item-6>
+      <Name>X-12U-125BP-48</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>13150.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-48</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>1219.200000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-6>
+    <Item-7>
+      <Name>X-12U-125BP-60</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>14970.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-60</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>1524.000000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-7>
+    <Item-8>
+      <Name>X-12U-125BP-72</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>17240.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-72</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>1828.800000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-8>
+    <Item-9>
+      <Name>X-12U-125BP-84</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>18600.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-84</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>2133.600000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-9>
+    <Item-10>
+      <Name>X-12U-125BP-96</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>20870.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-96</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>2438.400000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-10>
+    <Item-11>
+      <Name>X-12U-125BP-108</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>0.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-108</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>2743.200000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-11>
+    <Item-12>
+      <Name>X-12U-125BP-120</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>24950.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-120</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>3048.000000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-12>
+    <Item-13>
+      <Name>X-12U-125BP-132</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>0.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-132</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>3352.800000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-13>
+    <Item-14>
+      <Name>X-12U-125BP-144</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>0.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-144</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>3657.600000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-14>
+    <Item-15>
+      <Name>X-12U-125BP-156</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>0.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-156</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>3962.400000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-15>
+    <Item-16>
+      <Name>X-12U-125BP-168</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>0.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-168</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>4267.200000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-16>
+    <Item-17>
+      <Name>X-12U-125BP-180</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>0.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-180</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>4572.000000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-17>
+    <Item-18>
+      <Name>X-12U-125BP-192</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>0.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-192</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>4876.800000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-18>
+    <Item-19>
+      <Name>X-12U-125BP-240</Name>
+      <Type>XSF 12x12 Plate</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>0.000000</Weight>
+      <Symbol>Truss Straight XSF X-12U-125BP-240</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>XSF 12x12 Plate</Section>
+      <Connection>XSF 12x12 Plate</Connection>
+      <Use>false</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>6096.000000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-19>
+  </Items>
+
+  <Items FilePath="JThomas/SuperTruss  - 12x12 Truss.vwx">
+    <Item-0>
+      <Name>B1208</Name>
+      <Type>ST 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>1810.000000</Weight>
+      <Symbol>Truss Acc JThomas B1208</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>ST 12x12</Section>
+      <Connection>ST 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>254.000000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-0>
+    <Item-1>
+      <Name>B1200A</Name>
+      <Type>ST 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>6350.000000</Weight>
+      <Symbol>Truss Corn JThomas B1200A</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>ST 12x12</Section>
+      <Connection>ST 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>538.200000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-1>
+    <Item-2>
+      <Name>B1201</Name>
+      <Type>ST 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>3630.000000</Weight>
+      <Symbol>Truss Corn JThomas B1201</Symbol>
+      <ObjectType>2</ObjectType>
+      <Section>ST 12x12</Section>
+      <Connection>ST 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <CornerType>L_Corner</CornerType>
+      <Top isValid="0">
+        <X>0.000000</X>
+        <Y>0.000000</Y>
+        <Z>0.000000</Z>
+      </Top>
+      <Right isValid="0">
+        <X>0.000000</X>
+        <Y>0.000000</Y>
+        <Z>0.000000</Z>
+      </Right>
+      <Bottom isValid="1">
+        <X>127.000000</X>
+        <Y>-127.000000</Y>
+        <Z>0.000000</Z>
+      </Bottom>
+      <Center isValid="1">
+        <X>127.000000</X>
+        <Y>0.000000</Y>
+        <Z>0.000000</Z>
+      </Center>
+      <High isValid="0">
+        <X>0.000000</X>
+        <Y>0.000000</Y>
+        <Z>0.000000</Z>
+      </High>
+      <Low isValid="0">
+        <X>0.000000</X>
+        <Y>0.000000</Y>
+        <Z>0.000000</Z>
+      </Low>
+      <ConLeft>0</ConLeft>
+      <ConRight>0</ConRight>
+      <ConBottom>0</ConBottom>
+      <ConTop>0</ConTop>
+      <ConHeight>0</ConHeight>
+      <ConLow>0</ConLow>
+      <ConLeftRot>0.000000</ConLeftRot>
+      <ConRightRot>0.000000</ConRightRot>
+      <ConBottomRot>0.000000</ConBottomRot>
+      <ConTopRot>0.000000</ConTopRot>
+      <ConHeightRot>0.000000</ConHeightRot>
+      <ConLowRot>0.000000</ConLowRot>
+    </Item-2>
+    <Item-3>
+      <Name>B1203</Name>
+      <Type>ST 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>2270.000000</Weight>
+      <Symbol>Truss Corn JThomas B1203</Symbol>
+      <ObjectType>2</ObjectType>
+      <Section>ST 12x12</Section>
+      <Connection>ST 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <CornerType>L_Corner</CornerType>
+      <Top isValid="0">
+        <X>0.000000</X>
+        <Y>0.000000</Y>
+        <Z>0.000000</Z>
+      </Top>
+      <Right isValid="0">
+        <X>0.000000</X>
+        <Y>0.000000</Y>
+        <Z>0.000000</Z>
+      </Right>
+      <Bottom isValid="1">
+        <X>89.800000</X>
+        <Y>-37.200000</Y>
+        <Z>0.000000</Z>
+      </Bottom>
+      <Center isValid="1">
+        <X>52.610000</X>
+        <Y>0.000000</Y>
+        <Z>0.000000</Z>
+      </Center>
+      <High isValid="0">
+        <X>0.000000</X>
+        <Y>0.000000</Y>
+        <Z>0.000000</Z>
+      </High>
+      <Low isValid="0">
+        <X>0.000000</X>
+        <Y>0.000000</Y>
+        <Z>0.000000</Z>
+      </Low>
+      <ConLeft>0</ConLeft>
+      <ConRight>0</ConRight>
+      <ConBottom>0</ConBottom>
+      <ConTop>0</ConTop>
+      <ConHeight>0</ConHeight>
+      <ConLow>0</ConLow>
+      <ConLeftRot>0.000000</ConLeftRot>
+      <ConRightRot>0.000000</ConRightRot>
+      <ConBottomRot>0.000000</ConBottomRot>
+      <ConTopRot>0.000000</ConTopRot>
+      <ConHeightRot>0.000000</ConHeightRot>
+      <ConLowRot>0.000000</ConLowRot>
+    </Item-3>
+    <Item-4>
+      <Name>B1204A</Name>
+      <Type>ST 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>3630.000000</Weight>
+      <Symbol>Truss Corn JThomas B1204A</Symbol>
+      <ObjectType>2</ObjectType>
+      <Section>ST 12x12</Section>
+      <Connection>ST 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <CornerType>L_Corner</CornerType>
+      <Top isValid="0">
+        <X>0.000000</X>
+        <Y>0.000000</Y>
+        <Z>0.000000</Z>
+      </Top>
+      <Right isValid="0">
+        <X>0.000000</X>
+        <Y>0.000000</Y>
+        <Z>0.000000</Z>
+      </Right>
+      <Bottom isValid="1">
+        <X>109.990000</X>
+        <Y>-63.500000</Y>
+        <Z>0.000000</Z>
+      </Bottom>
+      <Center isValid="1">
+        <X>73.320000</X>
+        <Y>0.000000</Y>
+        <Z>0.000000</Z>
+      </Center>
+      <High isValid="0">
+        <X>0.000000</X>
+        <Y>0.000000</Y>
+        <Z>0.000000</Z>
+      </High>
+      <Low isValid="0">
+        <X>0.000000</X>
+        <Y>0.000000</Y>
+        <Z>0.000000</Z>
+      </Low>
+      <ConLeft>0</ConLeft>
+      <ConRight>0</ConRight>
+      <ConBottom>0</ConBottom>
+      <ConTop>0</ConTop>
+      <ConHeight>0</ConHeight>
+      <ConLow>0</ConLow>
+      <ConLeftRot>0.000000</ConLeftRot>
+      <ConRightRot>0.000000</ConRightRot>
+      <ConBottomRot>0.000000</ConBottomRot>
+      <ConTopRot>0.000000</ConTopRot>
+      <ConHeightRot>0.000000</ConHeightRot>
+      <ConLowRot>0.000000</ConLowRot>
+    </Item-4>
+    <Item-5>
+      <Name>B1204B</Name>
+      <Type>ST 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>3630.000000</Weight>
+      <Symbol>Truss Corn JThomas B1204B</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>ST 12x12</Section>
+      <Connection>ST 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>253.000000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-5>
+    <Item-6>
+      <Name>B1205</Name>
+      <Type>ST 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>6120.000000</Weight>
+      <Symbol>Truss Corn JThomas B1205</Symbol>
+      <ObjectType>2</ObjectType>
+      <Section>ST 12x12</Section>
+      <Connection>ST 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <CornerType>CornerNone</CornerType>
+      <Top isValid="1">
+        <X>191.900000</X>
+        <Y>191.900000</Y>
+        <Z>0.000000</Z>
+      </Top>
+      <Right isValid="1">
+        <X>383.800000</X>
+        <Y>0.000000</Y>
+        <Z>0.000000</Z>
+      </Right>
+      <Bottom isValid="1">
+        <X>191.900000</X>
+        <Y>-191.900000</Y>
+        <Z>0.000000</Z>
+      </Bottom>
+      <Center isValid="1">
+        <X>191.900000</X>
+        <Y>0.000000</Y>
+        <Z>0.000000</Z>
+      </Center>
+      <High isValid="1">
+        <X>40.000000</X>
+        <Y>0.000000</Y>
+        <Z>360.900000</Z>
+      </High>
+      <Low isValid="0">
+        <X>0.000000</X>
+        <Y>0.000000</Y>
+        <Z>0.000000</Z>
+      </Low>
+      <ConLeft>0</ConLeft>
+      <ConRight>0</ConRight>
+      <ConBottom>0</ConBottom>
+      <ConTop>0</ConTop>
+      <ConHeight>0</ConHeight>
+      <ConLow>0</ConLow>
+      <ConLeftRot>0.000000</ConLeftRot>
+      <ConRightRot>0.000000</ConRightRot>
+      <ConBottomRot>0.000000</ConBottomRot>
+      <ConTopRot>0.000000</ConTopRot>
+      <ConHeightRot>0.000000</ConHeightRot>
+      <ConLowRot>0.000000</ConLowRot>
+    </Item-6>
+    <Item-7>
+      <Name>B1211</Name>
+      <Type>ST 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>1000.000000</Weight>
+      <Symbol>Truss Horz JThomas B1211</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>ST 12x12</Section>
+      <Connection>ST 12x12; TT 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>0</Count>
+      <Length>65.600000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-7>
+    <Item-8>
+      <Name>B1260A</Name>
+      <Type>ST 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>39000.000000</Weight>
+      <Symbol>Truss Straight JThomas B1260A 12x12x146</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>ST 12x12</Section>
+      <Connection>ST 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>3657.600000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-8>
+    <Item-9>
+      <Name>B1261</Name>
+      <Type>ST 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>32000.000000</Weight>
+      <Symbol>Truss Straight JThomas B1261 12x12x122</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>ST 12x12</Section>
+      <Connection>ST 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>3048.000000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-9>
+    <Item-10>
+      <Name>B1262</Name>
+      <Type>ST 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>30000.000000</Weight>
+      <Symbol>Truss Straight JThomas B1262 12x12x98</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>ST 12x12</Section>
+      <Connection>ST 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>2438.400000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-10>
+    <Item-11>
+      <Name>B1263</Name>
+      <Type>ST 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>23000.000000</Weight>
+      <Symbol>Truss Straight JThomas B1263 12x12x74</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>ST 12x12</Section>
+      <Connection>ST 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>1828.800000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-11>
+    <Item-12>
+      <Name>B1264</Name>
+      <Type>ST 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>19000.000000</Weight>
+      <Symbol>Truss Straight JThomas B1264 12x12x62</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>ST 12x12</Section>
+      <Connection>ST 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>1524.000000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-12>
+    <Item-13>
+      <Name>B1265</Name>
+      <Type>ST 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>12000.000000</Weight>
+      <Symbol>Truss Straight JThomas B1265 12x12x32</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>ST 12x12</Section>
+      <Connection>ST 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>762.000000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-13>
+    <Item-14>
+      <Name>B1266</Name>
+      <Type>ST 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>16780.000000</Weight>
+      <Symbol>Truss Straight JThomas B1266 12x12x50</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>ST 12x12</Section>
+      <Connection>ST 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>1219.200000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-14>
+  </Items>
+
+  <Items FilePath="JThomas/Tower - 12x12 GP Straight.vwx">
+    <Item-0>
+      <Name>B0100</Name>
+      <Type>TT 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>32890.000000</Weight>
+      <Symbol>Truss Straight JThomas B0100 12x12x120</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>TT 12x12</Section>
+      <Connection>TT 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>3048.000000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-0>
+    <Item-1>
+      <Name>B0101</Name>
+      <Type>TT 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>26990.000000</Weight>
+      <Symbol>Truss Straight JThomas B0101 12x12x96</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>TT 12x12</Section>
+      <Connection>TT 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>2438.400000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-1>
+    <Item-2>
+      <Name>B0102</Name>
+      <Type>TT 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>20870.000000</Weight>
+      <Symbol>Truss Straight JThomas B0102 12x12x72</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>TT 12x12</Section>
+      <Connection>TT 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>1828.800000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-2>
+    <Item-3>
+      <Name>B0103</Name>
+      <Type>TT 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>17920.000000</Weight>
+      <Symbol>Truss Straight JThomas B0103 12x12x60</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>TT 12x12</Section>
+      <Connection>TT 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>1524.000000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-3>
+    <Item-4>
+      <Name>B0104</Name>
+      <Type>TT 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>10890.000000</Weight>
+      <Symbol>Truss Straight JThomas B0104 12x12x30</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>TT 12x12</Section>
+      <Connection>TT 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>762.000000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-4>
+    <Item-5>
+      <Name>B0105</Name>
+      <Type>TT 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>6800.000000</Weight>
+      <Symbol>Truss Straight JThomas B0105 12x12x15</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>TT 12x12</Section>
+      <Connection>TT 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>381.000000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-5>
+    <Item-6>
+      <Name>B0106</Name>
+      <Type>TT 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>12700.000000</Weight>
+      <Symbol>Truss Straight JThomas B0106 12x12x36</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>TT 12x12</Section>
+      <Connection>TT 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>914.400000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-6>
+    <Item-7>
+      <Name>B0112</Name>
+      <Type>TT 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>34020.000000</Weight>
+      <Symbol>Truss Straight JThomas B0112 12x12x144</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>TT 12x12</Section>
+      <Connection>TT 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>3657.600000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-7>
+    <Item-8>
+      <Name>B0124</Name>
+      <Type>TT 12x12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>9070.000000</Weight>
+      <Symbol>Truss Straight JThomas B0124 12x12x24</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>TT 12x12</Section>
+      <Connection>TT 12x12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>609.600000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-8>
+  </Items>
+
+  <Items FilePath="JThomas/Lite - Squarelite 12.vwx">
+    <Item-0>
+      <Name>B3910</Name>
+      <Type>Squarelite 12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>6000.000000</Weight>
+      <Symbol>Truss Straight JThomas B3910 12x12x104</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>Squarelite 12</Section>
+      <Connection>Squarelite 12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>2601.700000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-0>
+    <Item-1>
+      <Name>B3961</Name>
+      <Type>Squarelite 12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>15000.000000</Weight>
+      <Symbol>Truss Straight JThomas B3961 12x12x122</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>Squarelite 12</Section>
+      <Connection>Squarelite 12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>3060.900000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-1>
+    <Item-2>
+      <Name>B3962</Name>
+      <Type>Squarelite 12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>12000.000000</Weight>
+      <Symbol>Truss Straight JThomas B3962 12x12x98</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>Squarelite 12</Section>
+      <Connection>Squarelite 12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>2448.800000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-2>
+    <Item-3>
+      <Name>B3963</Name>
+      <Type>Squarelite 12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>9000.000000</Weight>
+      <Symbol>Truss Straight JThomas B3963 12x12x72</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>Squarelite 12</Section>
+      <Connection>Squarelite 12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>1836.500000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-3>
+    <Item-4>
+      <Name>B3964</Name>
+      <Type>Squarelite 12</Type>
+      <Height>304.800000</Height>
+      <Width>304.800000</Width>
+      <Weight>7000.000000</Weight>
+      <Symbol>Truss Straight JThomas B3964 12x12x62</Symbol>
+      <ObjectType>1</ObjectType>
+      <Section>Squarelite 12</Section>
+      <Connection>Squarelite 12</Connection>
+      <Use>true</Use>
+      <Vertical>false</Vertical>
+      <Count>1</Count>
+      <Length>1528.000000</Length>
+      <ConStart>0</ConStart>
+      <ConEnd>0</ConEnd>
+      <ConRot>0.000000</ConRot>
+    </Item-4>
+  </Items>
+
+</BrxTrussItemRecord>
