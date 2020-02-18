@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # append my own stuff
-path+=('~/.dotfiles/bin' '~/library/python/3.7/bin')
+path+=('/Library/Frameworks/Python.framework/Versions/3.7/bin' '/Users/taylorrandall/.dotfiles/bin' '/Users/taylorrandall/library/python/3.7/bin')
 export PATH
 
 # Path to your oh-my-zsh installation.
@@ -12,13 +12,13 @@ export ZSH="/Users/taylorrandall/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="random"
+ZSH_THEME="rkj-repos"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in ~/.oh-my-zsh/themes/
 # If set to an empty array, this variable will have no effect.
-# ZSH_THEME_RANDOM_CANDIDATES=( "rkj-repos" "xiong-chiamiov" "refined" "kafeitu" "frontcube" "aussiegeek" "robbyrussell" "gianu" "michelebologna" "candy-kingdom" "terminalparty" )
+ZSH_THEME_RANDOM_CANDIDATES=( "rkj-repos" "xiong-chiamiov" "refined" "kafeitu" "frontcube" "aussiegeek" "robbyrussell" "gianu" "michelebologna" "candy-kingdom" "terminalparty" )
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
