@@ -3,7 +3,10 @@
 
 :devices {:utech [{:vendor_id 1241 :product_id 64597}]}
 
-:applications {:vwx ["^net\\.nemetschek\\.vectorworks$"]}
+:applications {
+	:vwx ["^net\\.nemetschek\\.vectorworks$"]
+	:qlab ["^com\\.figure53\\.QLab\\.4$"]
+}
 
 :simlayers 	{
 		:w-mode {:key :w}				;; open applications
@@ -13,24 +16,21 @@
 }
 
 :main [
+
+	;; Vectorworks
+
 	{:des "Map numbers on gaming mouse to VWX views"
-		:rules [[:1 :keypad_1 [:utech :vwx]]	;; Left iso
-			[:2 :keypad_2 [:utech :vwx]] 		;; Front							
-			[:3 :keypad_3 [:utech :vwx]] 		;; Right iso
-			[:4 :keypad_4 [:utech :vwx]] 		;; Left
-			[:5 :keypad_5 [:utech :vwx]] 		;; Top
-			[:6 :keypad_6 [:utech :vwx]] 		;; Right
-			[:7 :keypad_7 [:utech :vwx]] 		;; Left rear iso
-			[:8 :keypad_8 [:utech :vwx]] 		;; Rear
-			[:9 :keypad_9 [:utech :vwx]]]		;; Right rear iso
-	}
-	{:des "Open applications with W"
-		:rules [:w-mode
-			[:t "open -a terminal"]
-			[:v "open -a 'vectorworks 2020'"]
-			[:o "open -a 'microsoft outlook'"]
-			[:b "open -a 'brave browser'"]
-			[:s "open -a 'sublime text'"]]
+		:rules [
+			[:1 :keypad_1 [:utech :vwx]]	;; Left iso
+			[:2 :keypad_2 [:utech :vwx]] 	;; Front							
+			[:3 :keypad_3 [:utech :vwx]] 	;; Right iso
+			[:4 :keypad_4 [:utech :vwx]] 	;; Left
+			[:5 :keypad_5 [:utech :vwx]] 	;; Top
+			[:6 :keypad_6 [:utech :vwx]] 	;; Right
+			[:7 :keypad_7 [:utech :vwx]] 	;; Left rear iso
+			[:8 :keypad_8 [:utech :vwx]] 	;; Rear
+			[:9 :keypad_9 [:utech :vwx]]	;; Right rear iso
+		]
 	}
 	{:des "Vectorworks shortcuts on gaming mouse with V"
 		:rules  [:v-mode 
@@ -43,7 +43,38 @@
 	}
 	{:des "Vectorworks shortcuts on keyboard with V"
 		:rules [:v-mode
-			[:z :!SCOz [:vwx]]
+			[:z :!SCOz [:vwx]]	;; Custom Selection
+		]
+	}
+
+	;; Qlab
+
+	{:des "Qlab cues with gaming mouse"
+		:rules [
+			[:1 :!C1 [:utech :qlab]]		;; Audio
+			[:2 :!C2 [:utech :qlab]]		;; Mic
+			[:3 :!C3 [:utech :qlab]]		;; Video
+			[:4 :!C4 [:utech :qlab]]		;; Camera
+			[:5 :!C5 [:utech :qlab]]		;; Text
+			[:6 :!C6 [:utech :qlab]]		;; Light
+			[:7 :!C7 [:utech :qlab]]		;; Fade
+			[:8 :!C8 [:utech :qlab]]		;; Network
+			[:9 :!C9 [:utech :qlab]]		;; MIDI
+			[:0 :!C0 [:utech :qlab]]		;; Group
+			;;[:keypad_plus :C11 [:utech :qlab]]
+			;;[:keypad_hyphen :C12 [:utech :qlab]]
+		]
+	}
+
+	;; Misc.
+
+	{:des "Open applications with W"
+		:rules [:w-mode
+			[:t "open -a terminal"]
+			[:v "open -a 'vectorworks 2020'"]
+			[:o "open -a 'microsoft outlook'"]
+			[:b "open -a 'brave browser'"]
+			[:s "open -a 'sublime text'"]
 		]
 	}
 	{:des "Cap Lock > SCO"
