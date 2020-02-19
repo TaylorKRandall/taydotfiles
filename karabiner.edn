@@ -47,18 +47,14 @@
 			[:9 :keypad_9 [:utech :vwx]]	;; Right rear iso
 		]
 	}
-	{:des "Vectorworks shortcuts on gaming mouse with V"
+	{:des "Vectorworks shortcuts with V"
 		:rules  [:v-mode 
-			[:1 :!Oequal_sign [:utech :vwx]] ;; Rotate Tool
-			[:3 :!SOCp [:utech :vwx]] 	 	 ;; Compose
-			[:2 :!SCw [:utech :vwx]] 	 	 ;; Render as wireframe
-			[:4 :!Ol [:utech :vwx]]		 	 ;; Connect/Combine Tool
-			[:5 :!SCg [:utech :vwx]] 	 	 ;; Render as OpenGL
-		]
-	}
-	{:des "Vectorworks shortcuts on keyboard with V"
-		:rules [:v-mode
-			[:z :!SCOz [:vwx]]	;; Custom Selection
+			[:1 :!Oequal_sign [:utech :vwx]]	;; Rotate Tool
+			[:3 :!SOCp [:utech :vwx]]			;; Compose
+			[:2 :!SCw [:utech :vwx]]			;; Render as wireframe
+			[:4 :!Ol [:utech :vwx]]				;; Connect/Combine Tool
+			[:5 :!SCg [:utech :vwx]]			;; Render as OpenGL
+			[:z :!SCOz [:vwx]]					;; Custom selection
 		]
 	}
 
@@ -91,8 +87,8 @@
 	;; Brave
 	{:des "Brave shortcuts with gaming mouse"
 		:rules [
-			[:1 :!Copen_bracket [:utech :brave]]
-			[:3 :!Cclose_bracket [:utech :brave]]
+			[:1 :!Copen_bracket [:utech :brave]]	;; Page back
+			[:3 :!Cclose_bracket [:utech :brave]]	;; Page forward
 		]
 	}
 
