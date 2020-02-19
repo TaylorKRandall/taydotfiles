@@ -6,6 +6,12 @@
 :applications {
 	:vwx ["^net\\.nemetschek\\.vectorworks$"]
 	:qlab ["^com\\.figure53\\.QLab\\.4$"]
+	:logic ["^com\\.apple\\.logic10$"]
+	:brave ["^com\\.brave\\.Browser$"]
+}
+
+:templates {
+	:launch "open -a \"%s\""
 }
 
 :simlayers 	{
@@ -16,9 +22,18 @@
 }
 
 :main [
+	;; w-mode
+	{:des "Open applications with W"
+		:rules [:w-mode
+			[:t "open -a terminal"]
+			[:v "open -a 'vectorworks 2020'"]
+			[:o "open -a 'microsoft outlook'"]
+			[:b "open -a 'brave browser'"]
+			[:s "open -a 'sublime text'"]
+		]
+	}
 
 	;; Vectorworks
-
 	{:des "Map numbers on gaming mouse to VWX views"
 		:rules [
 			[:1 :keypad_1 [:utech :vwx]]	;; Left iso
@@ -48,7 +63,6 @@
 	}
 
 	;; Qlab
-
 	{:des "Qlab cues with gaming mouse"
 		:rules [
 			[:1 :!C1 [:utech :qlab]]		;; Audio
@@ -66,17 +80,23 @@
 		]
 	}
 
-	;; Misc.
-
-	{:des "Open applications with W"
-		:rules [:w-mode
-			[:t "open -a terminal"]
-			[:v "open -a 'vectorworks 2020'"]
-			[:o "open -a 'microsoft outlook'"]
-			[:b "open -a 'brave browser'"]
-			[:s "open -a 'sublime text'"]
+	;; Logic Pro X
+	{:des "Logic Pro X shortcuts with gaming mouse"
+		:rules [
+			[:1 :!Cu [:utech :logic]]	;; Loop selection to selected clip
+			[:2 :!Cb [:utech :logic]]	;; Bounce
 		]
 	}
+
+	;; Brave
+	{:des "Brave shortcuts with gaming mouse"
+		:rules [
+			[:1 :!Copen_bracket [:utech :brave]]
+			[:3 :!Cclose_bracket [:utech :brave]]
+		]
+	}
+
+	;; Misc.
 	{:des "Cap Lock > SCO"
 		:rules [:caps-mode
 			[:a :!SOCa]
