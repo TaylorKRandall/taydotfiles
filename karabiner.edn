@@ -8,6 +8,7 @@
 	:qlab ["^com\\.figure53\\.QLab\\.4$"]
 	:logic ["^com\\.apple\\.logic10$"]
 	:brave ["^com\\.brave\\.Browser$"]
+	:excel ["^com\\.microsoft\\.Excel$"]
 }
 
 :templates {
@@ -92,6 +93,12 @@
 			[:2 :home [:utech :brave]]				;; Home
 			[:5 :end [:utech :brave]]				;; End
 		]
+	}
+
+	;; Excel
+	{:des "Excel shortcuts with gaming mouse"
+		:rules [
+		[:1 :!T0 [:utech :excel]]]	;; Hide Column
 	}
 
 	;; Misc.
