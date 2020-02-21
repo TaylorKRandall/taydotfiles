@@ -89,6 +89,8 @@
 		:rules [
 			[:1 :!Copen_bracket [:utech :brave]]	;; Page back
 			[:3 :!Cclose_bracket [:utech :brave]]	;; Page forward
+			[:2 :home [:utech :brave]]				;; Home
+			[:5 :end [:utech :brave]]				;; End
 		]
 	}
 
