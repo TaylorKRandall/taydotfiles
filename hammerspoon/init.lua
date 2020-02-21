@@ -9,6 +9,15 @@ local laptopScreen = "Color LCD"
 local portraitScreen = "Dell P2211H"
 local screen2 = "Dell 2407WFP"
 
-hs.hotkey.bind({"cmd", "alt", "ctrl"}, "W", function()
-	hs.notify.new({title="Hammerspoon", informativeText="hello woRld"}):send()
-end)
+local hyper = {"ctrl", "alt", "cmd"}
+
+hs.loadSpoon("MiroWindowsManager")
+
+hs.window.animationDuration = 0
+spoon.MiroWindowsManager:bindHotkeys({
+  up = {hyper, "up"},
+  right = {hyper, "right"},
+  down = {hyper, "down"},
+  left = {hyper, "left"},
+  fullscreen = {hyper, "f"}
+})
