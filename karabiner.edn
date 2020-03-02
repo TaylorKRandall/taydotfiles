@@ -46,6 +46,7 @@
 			[:7 :keypad_7 [:utech :vwx]] 	;; Left rear iso
 			[:8 :keypad_8 [:utech :vwx]] 	;; Rear
 			[:9 :keypad_9 [:utech :vwx]]	;; Right rear iso
+			[:!S5 :!C5 [:utech :vwx]]		;; Top/Plan
 		]
 	}
 	{:des "Vectorworks shortcuts with V"
