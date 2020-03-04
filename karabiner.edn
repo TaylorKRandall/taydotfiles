@@ -37,16 +37,18 @@
 	;; Vectorworks
 	{:des "Map numbers on gaming mouse to VWX shortcuts"
 		:rules [
+	;; Views -----------------------------------
 			[:1 :keypad_1 [:utech :vwx]]		;; Left iso
 			[:2 :keypad_2 [:utech :vwx]] 		;; Front							
 			[:3 :keypad_3 [:utech :vwx]] 		;; Right iso
 			[:4 :keypad_4 [:utech :vwx]] 		;; Left
-			[:5 :keypad_5 [:utech :vwx]] 		;; Top
+			[:!S5 :keypad_5 [:utech :vwx]] 		;; Top
+			[:5 :!C5 [:utech :vwx]]				;; Top/Plan
 			[:6 :keypad_6 [:utech :vwx]] 		;; Right
 			[:7 :keypad_7 [:utech :vwx]] 		;; Left rear iso
 			[:8 :keypad_8 [:utech :vwx]] 		;; Rear
 			[:9 :keypad_9 [:utech :vwx]]		;; Right rear iso
-			[:!S5 :!C5 [:utech :vwx]]			;; Top/Plan
+	;; Tools -----------------------------------
 			[:!S1 :!Oequal_sign [:utech :vwx]]	;; Rotate Tool
 			[:!S3 :equal_sign [:utech :vwx]]	;; Mirror Tool
 			[:!S2 :!SCw [:utech :vwx]]			;; Render as wireframe
