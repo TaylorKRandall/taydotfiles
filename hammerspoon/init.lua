@@ -5,10 +5,12 @@
 	comment
 --]]
 
-local laptopScreen = "Color LCD"
-local portraitScreen = "Dell P2211H"
-local screen2 = "Dell 2407WFP"
+-- Work monitors
+local laptopScreen = "Color LCD"		-- Main screen
+local portraitScreen = "Dell P2211H"	-- L portrait screen
+local screen2 = "Dell 2407WFP"			-- R screen
 
+-- configure MiroWindowsManager
 local hyper = {"ctrl", "alt", "cmd"}
 
 hs.loadSpoon("MiroWindowsManager")
